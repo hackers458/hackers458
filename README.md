@@ -44,7 +44,7 @@ API 호출과 프로세스 구조가 **어떤 방식으로 악성 행위 또는 
 ## 🏆 Awards & Achievements
 
 | Date | Award / Achievement | Organization |
-|---|---|---|---|
+|---|---|---|
 | 2025.07.03 ~ 07.05 | 웹 해킹대회 개인/단체 1등 우승 | 경기대학교 K.knock 동아리 |
 | 2025.10 | 제 1회 KGUPC 알고리즘 대회 전체 9위 | 경기대학교 KGUPC |
 
